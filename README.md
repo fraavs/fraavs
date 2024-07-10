@@ -1,6 +1,6 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Derek</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm fraavs</h1>
 <p align="left">
-  <a href="https://github.com/dereknguyen269">
+  <a href="https://github.com/fraavs">
     <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
   </a>
   <a href="https://github.com/dereknguyen269?tab=followers">
