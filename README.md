@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
 </a>
 
-- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
+- :house: I'm currently living at Coding World.
 - :computer: I'm currently working as a Software Engineer.
 - :dart: I'm currently working on my pet projects.
 - :video_game: I love Dota 2.
